@@ -59,7 +59,7 @@
     "qr-code",
     "scanner"
   ],
-  "repository": "https://github.com/songhuyse/react-native-vision-camera.git",
+  "repository": "https://github.com/mrousavy/react-native-vision-camera",
   "author": "Marc Rousavy <marcrousavy@hotmail.com> (https://github.com/mrousavy)",
   "license": "MIT",
   "bugs": {
