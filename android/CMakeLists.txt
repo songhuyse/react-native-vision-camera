@@ -88,12 +88,6 @@ find_library(
         NO_CMAKE_FIND_ROOT_PATH
 )
 find_library(
-        JSI_LIB
-        jsi
-        PATHS ${LIBRN_DIR}
-        NO_CMAKE_FIND_ROOT_PATH
-)
-find_library(
         FOLLY_JSON_LIB
         folly_json
         PATHS ${LIBRN_DIR}
